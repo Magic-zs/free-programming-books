@@ -1,7 +1,9 @@
 ### Index
 
 * [Android](#android)
+* [Emacs](#emacs)
 * [Git](#git)
+* [Go](#go)
 * [HTML & CSS](#html-css)
 * [JavaScript](#javascript)
 * [PHP](#php)
@@ -10,13 +12,23 @@
 
 ### Android
 
-* [Tutorial Membuat Aplikasi Android **Special Edition**](http://www.slideshare.net/creatorb/tutorial-lengkap-cara-membuat-aplikasi-android-sederhana)
 * [Tutorial Membuat Aplikasi Galeri Foto Android](https://www.smashwords.com/books/view/533096)
+
+
+### Emacs
+
+* [Dokumentasi Emacs Bahasa Indonesia](https://github.com/kholidfu/emacs_doc)
 
 
 ### Git
 
+* [Kontrol Versi dengan Git](https://leanpub.com/kontrol-versi-git)
 * [Pro Git 1st Edition](https://git-scm.com/book/id/v1)
+
+
+### Go
+
+* [Dasar Pemrograman Golang](https://github.com/novalagung/dasarpemrogramangolang)
 
 
 ### HTML CSS
@@ -32,7 +44,8 @@
 
 ### Node.js
 
-* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/) 
+* [Belajar Node.js](http://idjs.github.io/belajar-nodejs/)
+* [Node.js Handbook: Berbahasa Indonesia](https://play.google.com/store/books/details/Bona_Tua_Node_js_Handbook?id=9WhZDwAAQBAJ) - Bona Tua, Google Play Books (*account required*)
 
 
 ### NoSQL
@@ -42,9 +55,12 @@
 
 ### PHP
 
-* [Tutorial Ebook PHP](http://www.4shared.com/rar/CtmMQ24E/Ebook_Tutorial_PHP.html)
+* [Pemrograman Web dengan PHP dan MySQL](http://achmatim.net/2009/04/15/buku-gratis-pemrograman-web-dengan-php-dan-mysql/)
+* [Tutorial Ebook PHP](http://www.ilmuwebsite.com/ebook-php-free-download)
 
 
 ### Python
 
+* [Belajar Python](http://www.belajarpython.com)
+* [Database PostgreSQL, Pemrograman Python, dan SMS Gateway](http://rab.co.id/files/python/bukupython2.pdf.gz) - (PDF)
 * [Workshop Python 101](http://sakti.github.io/python101/)
